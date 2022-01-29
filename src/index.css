@@ -7,3 +7,16 @@
 * {
   font-family: 'Ruda', sans-serif;
 }
+html {
+  scroll-behavior: smooth;
+}
+body{
+  font-weight: bold;
+  background-image: -webkit-linear-gradient(
+    top left,
+   
+    #891f06 0%,
+    #ef7c06 50%,
+    #c14205 100%
+  );
+}
