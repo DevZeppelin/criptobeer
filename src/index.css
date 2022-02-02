@@ -20,3 +20,14 @@ body{
     #c14205 100%
   );
 }
+
+.bg-custom-footer{
+  background-image: -webkit-linear-gradient(
+    top right,
+   
+    #3b3838 0%,
+    #575452 50%,
+    #1d1b1b 100%
+  );
+
+}
