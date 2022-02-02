@@ -13,9 +13,9 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        'hero': "url('/hero.jpg')",
-        'md-fixed': "url('/bg1.jpg')",
-        'sm-fixed': "url('/bg2.jpg')"
+        'hero': "url('/hero.webp')",
+        'md-fixed': "url('/bg1.webp')",
+        'sm-fixed': "url('/bg2.webp')"
         
       }
     },

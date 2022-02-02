@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left md:mt-0 mt-10">
           <img
             className="flex justify-center rounded-3xl"
-            src="/new-logo.jpg"
+            src="/new-logo.webp"
           />
           <span className="inline-flex text-center p-4 sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start text-4xl gap-4">
             <a
@@ -72,7 +72,7 @@ const Footer = () => {
         <p className="text-gray-500 text-sm text-center sm:text-left mt-8">
           © 2022 DevZeppelin —
           <a
-            href="https://twitter.com/moonwatcher.dev"
+            href="https://twitter.com/moonwatcher73"
             rel="noopener noreferrer"
             className="text-yellow ml-1"
             target="_blank"
